@@ -1,12 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    font-family: 'Work Sans', sans-serif;
 }
 
 
 /* navigation */
 
-.menu-container{
+.menu-container {
     background-color: #393E46;
     padding: 20px;
     color: white;
@@ -16,22 +17,22 @@
     justify-content: space-around;
 }
 
-.logo img{
+.logo img {
     width: 120px;
 }
 
-.menus{
+.menus {
     display: flex;
 }
 
-.menus li{
+.menus li {
     color: #e6e6e6;
     margin-right: 10px;
     padding: 7px;
     font-size: 18px;
 }
 
-.menus li:hover{
+.menus li:hover {
     color: white;
     transition-duration: 0.5s;
     cursor: pointer;
@@ -39,5 +40,41 @@
 
 
 /* BANNER */
+
+
+.banner-text h1{
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.banner-text p{
+    font: 18px;
+    margin-top: 5px;
+}
+
+.banner-text button{
+    padding: 10px;
+    border-style: none;
+    color: white;
+    background-color: rgb(219, 69, 0);
+    margin-top: 20px;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background: rgb(255, 255, 255);
+    background: -moz-radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(207, 207, 207, 1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(207, 207, 207, 1) 100%);
+    background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(207, 207, 207, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#cfcfcf", GradientType=1);
+
+}
+
+.banner-photo img {
+    width: 300px;
+}
 
 
