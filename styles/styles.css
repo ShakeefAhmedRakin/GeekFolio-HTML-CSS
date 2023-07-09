@@ -4,6 +4,22 @@
     font-family: 'Work Sans', sans-serif;
 }
 
+.btn-primary{
+    font-size: 15px;
+    padding: 12px;
+    border-style: none;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(238, 78, 5);
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.btn-primary:hover{
+    background-color: rgb(209, 66, 0);
+    transition-duration: 0.5s;
+}
+
 
 /* navigation */
 
@@ -48,17 +64,10 @@
 }
 
 .banner-text p{
-    font: 18px;
-    margin-top: 5px;
+    font-size: 18px;
+    margin-top: 15px;
 }
 
-.banner-text button{
-    padding: 10px;
-    border-style: none;
-    color: white;
-    background-color: rgb(219, 69, 0);
-    margin-top: 20px;
-}
 
 .banner-container {
     display: flex;
@@ -74,7 +83,38 @@
 }
 
 .banner-photo img {
-    width: 300px;
+    width: 450px;
 }
 
 
+/* ABOUT US */
+
+.aboutus-title{
+    margin: 50px 0px;
+    text-align: center;
+    font-size: 55px;
+}
+
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}
+
+.about-photo img{
+    width: 420px;
+}
+
+
+.about-text h1{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.about-text p{
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 10px;
+    line-height: 25px;
+}
