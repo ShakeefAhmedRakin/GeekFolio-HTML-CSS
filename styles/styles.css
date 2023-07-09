@@ -4,8 +4,10 @@
 }
 
 
+/* navigation */
+
 .menu-container{
-    background-color: gray;
+    background-color: #393E46;
     padding: 20px;
     color: white;
     list-style: none;
@@ -23,5 +25,19 @@
 }
 
 .menus li{
+    color: #e6e6e6;
     margin-right: 10px;
+    padding: 7px;
+    font-size: 18px;
 }
+
+.menus li:hover{
+    color: white;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+
+/* BANNER */
+
+
