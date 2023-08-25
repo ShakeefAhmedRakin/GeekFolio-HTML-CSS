@@ -46,4 +46,5 @@ Simply open the `index.html` file in a web browser to explore the website.
 
 ## Credits
 
-This project was completed as part of the <a href="https://web.programming-hero.com/course-details">"Complete Web Development Course"</a> by Programming Hero. Special thanks to the instructors and mentors for their guidance and support.
+This project was completed as part of the <a href="https://web.programming-hero.com/course-details">"Complete Web Development Course"</a> by Programming Hero. The course provided the necessary resources, including the images, for building the website.
+Special thanks to the instructors and mentors for their guidance and support.
