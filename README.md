@@ -5,7 +5,7 @@
 
 ## Description
 
-"GeekFolio" is an unresponsive website project created using only HTML and CSS. It was developed as part of the "Complete Web Development Course" by Programming Hero. This project serves as a demonstration of front-end web development skills acquired during the course.
+"GeekFolio" is an unresponsive website project created using only HTML and CSS. It was developed as part of the **"Complete Web Development Course"** by Programming Hero. This project serves as a demonstration of front-end web development skills acquired during the course.
 
 The primary goal of this project was to create a static website that showcases various aspects of HTML and CSS, including layout, styling, and structuring content.
 
